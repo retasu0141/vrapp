@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.example.helloworld</string>
+                <string>com.saezuri.VrViewApp</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>HELLO</string>
+                <string>VR視聴用</string>
             </dict>
         </dict>
     </array>
